@@ -12,4 +12,4 @@ A simple calendar-based calculator built in C++ that displays the calendar of an
 
 
 
-## This project is open-source and can be used or modified for personal and educational purposes.
+This project is open-source and can be used or modified for personal and educational purposes.
